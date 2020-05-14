@@ -1,7 +1,10 @@
 # this is my first python program
 firstname='jane'
 secondname='doe'
-print(firstname,secondname)
+middlename="smith"
+
+print(firstname,secondname,middlename)
+
 
 a=100
 b=300
