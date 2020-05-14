@@ -2,8 +2,9 @@
 firstname='jane'
 secondname='doe'
 middlename="smith"
-
+address="nairobi"
 print(firstname,secondname,middlename)
+print(address)
 
 
 a=100
